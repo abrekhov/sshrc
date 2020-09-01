@@ -1,14 +1,10 @@
 <h2>Installation</h2>
+<h2>Copyright</h2>
 
-<h3>Ubuntu (12.04 and 14.04 only):</h3>
-    
-    $ sudo add-apt-repository ppa:russell-s-stewart/ppa
-    $ sudo apt-get update
-    $ sudo apt-get install sshrc
-
+It's just fork of Russel91/sshrc repo. I'm not responsible for it.
 
 <h3>Everything else:</h3>
-    $ wget https://raw.githubusercontent.com/Russell91/sshrc/master/sshrc
+    $ wget https://raw.githubusercontent.com/abrekhov/sshrc/master/sshrc
     $ chmod +x sshrc
     $ sudo mv sshrc /usr/local/bin #or anywhere else on your PATH
 
