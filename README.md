@@ -4,9 +4,7 @@
 It's just fork of Russel91/sshrc repo. I'm not responsible for it.
 
 <h3>Everything else:</h3>
-    $ wget https://raw.githubusercontent.com/abrekhov/sshrc/master/sshrc
-    $ chmod +x sshrc
-    $ sudo mv sshrc /usr/local/bin #or anywhere else on your PATH
+    $ wget https://raw.githubusercontent.com/abrekhov/sshrc/master/sshrc && chmod +x sshrc && mv sshrc /usr/local/bin #or anywhere else on your PATH
 
 <h2>Usage</h2>
 
